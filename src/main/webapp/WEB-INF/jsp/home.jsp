@@ -6,7 +6,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Spring MVC and Hibernate Template</title>
+    
 
     <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -23,6 +23,14 @@
 </head>
 
 <body>
+<h2> Diksha Yadav Student ID - 85251</h2>
+<p> 1)  Got idea about the web security.</p>
+<p> 2)	Learned more about ISO-OSI layers.</p>
+<p> 3)	Learned how protocols work in each layers.</p>
+<p> 4)	Learned how to provide security to our system.</p>
+<p> 5)	Learned how to configure router.</p>
+<p> 6)	Learned how to setup virtual private network.</p>
+<!--  
 <div class="navbar navbar-fixed-top">
     <div class="navbar-inner">
         <div class="container">
@@ -70,6 +78,6 @@
         </div>
     </div>
 </div>
-
+-->
 </body>
 </html>
