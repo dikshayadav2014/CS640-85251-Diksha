@@ -30,6 +30,7 @@
 <p> 4)	Learned how to provide security to our system.</p>
 <p> 5)	Learned how to configure router.</p>
 <p> 6)	Learned how to setup virtual private network.</p>
+<p> 7)  Learned how to worked with git and heroku</p>
 <!--  
 <div class="navbar navbar-fixed-top">
     <div class="navbar-inner">
